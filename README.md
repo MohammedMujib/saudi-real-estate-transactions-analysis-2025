@@ -67,7 +67,3 @@ Saudi Open Data Platform (SDAIA)
 Dataset: Real Estate Transactions
 
 Data Provider: Ministry of Justice
-
-
-
-Data Analyst | Power BI Developer
